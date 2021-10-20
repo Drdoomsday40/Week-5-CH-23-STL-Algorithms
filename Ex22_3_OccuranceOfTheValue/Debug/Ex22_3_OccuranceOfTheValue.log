@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 5, (9_21) Ch 22\Ex22_3_OccuranceOfTheValue\Source.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 5, (9_21) Ch 22\Ex22_3_OccuranceOfTheValue\Source.cpp(20): message : see reference to function template instantiation 'int countElement<int,std::vector<int,std::allocator<int>>>(ContainerType &,const ElementType &)' being compiled
+          with
+          [
+              ContainerType=std::vector<int,std::allocator<int>>,
+              ElementType=int
+          ]
+  Ex22_3_OccuranceOfTheValue.vcxproj -> C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 5, (9_21) Ch 22\Ex22_3_OccuranceOfTheValue\Debug\Ex22_3_OccuranceOfTheValue.exe
