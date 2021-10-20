@@ -1,0 +1,2 @@
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 5, (9_21) Ch 22\Ex23_5_Find_ifFindEndFindFirstOf\Debug\Ex23_5_Find_ifFindEndFindFirstOf.exe
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 5, (9_21) Ch 22\Ex23_5_Find_ifFindEndFindFirstOf\Debug\Ex23_5_Find_ifFindEndFindFirstOf.pdb

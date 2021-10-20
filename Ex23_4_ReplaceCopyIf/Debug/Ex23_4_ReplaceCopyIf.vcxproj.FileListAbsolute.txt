@@ -1,0 +1,2 @@
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 5, (9_21) Ch 22\Ex23_4_ReplaceCopyIf\Debug\Ex23_4_ReplaceCopyIf.exe
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 5, (9_21) Ch 22\Ex23_4_ReplaceCopyIf\Debug\Ex23_4_ReplaceCopyIf.pdb
